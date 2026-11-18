@@ -2,8 +2,8 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { useTypewriter } from 'react-simple-typewriter';
 
 /* the greeting gets a natural little beat before the name lands */
-const LEAD_WORDS = ['Dear My,'];
-const NAME_WORDS = ['Love'];
+const LEAD_WORDS = ['For You,'];
+const NAME_WORDS = ['Mita'];
 const LEAD_SPEED = 64;
 const NAME_SPEED = 84;
 const NAME_PAUSE = 260;
